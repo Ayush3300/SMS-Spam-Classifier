@@ -5,6 +5,7 @@ pickle
 numpy
 matplotlib
 nltk
+nltk.corpus
 seaborn
 string
 wordcloud
